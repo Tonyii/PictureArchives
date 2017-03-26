@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  SaveFile.cpp
+  PictureProject.cpp
+  Picture.cpp
+  MenuUi.cpp
+c:\visual\objectorientedsmart\projekti\projekti\menuui.cpp(76): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\visual\objectorientedsmart\projekti\projekti\menuui.cpp(99): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\visual\objectorientedsmart\projekti\projekti\menuui.cpp(264): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\visual\objectorientedsmart\projekti\projekti\menuui.cpp(272): warning C4018: '>': signed/unsigned mismatch
+  LimitedCounter.cpp
+  counter.cpp
+  Generating Code...
+c:\visual\objectorientedsmart\projekti\projekti\menuui.cpp(278): warning C4715: 'MenuUi::inputlength': not all control paths return a value
+  Projekti.vcxproj -> C:\visual\objectorientedsmart\Projekti\Debug\Projekti.exe
+  Projekti.vcxproj -> C:\visual\objectorientedsmart\Projekti\Debug\Projekti.pdb (Full PDB)
